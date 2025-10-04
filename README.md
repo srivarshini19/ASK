@@ -131,11 +131,11 @@ plt.show()
  
 # Output Waveform
  # ask:
-<img width="1442" height="773" alt="Screenshot 2025-10-04 151458" src="https://github.com/user-attachments/assets/4a3dd412-aba6-4770-a91f-5e4f993fc4a4" />
-<img width="1372" height="264" alt="Screenshot 2025-10-04 151506" src="https://github.com/user-attachments/assets/c2ac1c51-a473-4825-9fba-591fd0a54414" />
+<img width="1442" height="773" alt="Screenshot 2025-10-04 151458" src="https://github.com/user-attachments/assets/711bc36d-d555-4cd0-b234-92f33c4e8ea0" />
+<img width="1372" height="264" alt="Screenshot 2025-10-04 151506" src="https://github.com/user-attachments/assets/3606b919-9fad-4a2f-8455-b7646fd1a5f7" />
  # fsk:
- <img width="1372" height="698" alt="Screenshot 2025-10-04 151952" src="https://github.com/user-attachments/assets/54919cc8-d0e8-4daa-9d6e-7d1c0fffac6d" />
-<img width="1347" height="445" alt="Screenshot 2025-10-04 152003" src="https://github.com/user-attachments/assets/f46ff766-89eb-4c00-882c-eb3ff25bc58b" />
+ <img width="1372" height="698" alt="Screenshot 2025-10-04 151952" src="https://github.com/user-attachments/assets/ac525579-a18a-488e-bccf-02022797532c" />
+<img width="1347" height="445" alt="Screenshot 2025-10-04 152003" src="https://github.com/user-attachments/assets/05cbf696-feb8-4ade-968a-8d6dbb9b1bbe" />
 
 # Results
 Hence a simple Python program for the modulation and demodulation of ASK and FSK is written.
