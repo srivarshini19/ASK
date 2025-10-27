@@ -55,7 +55,8 @@ plt.show()
 ```
 # Output Waveform - ASK
 
-<img width="759" height="506" alt="image" src="https://github.com/user-attachments/assets/182c5229-fb55-4bff-af4b-6b10ee7011f2" />
+<img width="759" height="506" alt="image" src="https://github.com/user-attachments/assets/c0cb6fb1-7ab6-4417-8a98-6eb7ca36f746" />
+
 
 # Program - FSK
 ```
