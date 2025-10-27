@@ -54,11 +54,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform - ASK
-```
+
 <img width="759" height="506" alt="image" src="https://github.com/user-attachments/assets/182c5229-fb55-4bff-af4b-6b10ee7011f2" />
 
-
-```
 # Program - FSK
 ```
 import numpy as np
@@ -147,11 +145,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform - FSK
-```
+
 <img width="756" height="639" alt="image" src="https://github.com/user-attachments/assets/c9c20ba7-52ae-4fb4-a23e-9c1ef81762f0" />
 
-
-```
 # Results
 ```
 Hence a simple Python program for the modulation and demodulation of ASK and FSK is written.
