@@ -55,7 +55,8 @@ plt.show()
 ```
 # Output Waveform - ASK
 ```
-![WhatsApp Image 2025-10-27 at 13 23 33_4e5bd770](https://github.com/user-attachments/assets/35c95a88-aca8-4f37-8493-fb89199624a7)
+<img width="759" height="506" alt="image" src="https://github.com/user-attachments/assets/182c5229-fb55-4bff-af4b-6b10ee7011f2" />
+
 
 ```
 # Program - FSK
@@ -147,7 +148,8 @@ plt.show()
 ```
 # Output Waveform - FSK
 ```
-![WhatsApp Image 2025-10-27 at 13 31 57_98fd75d8](https://github.com/user-attachments/assets/6ee71d72-aaae-4fb9-9436-24ab3c622227)
+<img width="756" height="639" alt="image" src="https://github.com/user-attachments/assets/c9c20ba7-52ae-4fb4-a23e-9c1ef81762f0" />
+
 
 ```
 # Results
